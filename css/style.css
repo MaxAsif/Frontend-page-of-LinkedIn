@@ -1,0 +1,78 @@
+.container{
+	margin-top:20px;
+	background-color: #eee;
+	width: 380px;
+	margin: auto;
+	padding-top: 20px;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-bottom: 5px;
+	
+}
+#label
+{
+	font-size:80%;
+	font-family: arial;
+	color:grey;
+}
+input,button{
+	width:380px;
+	height:30px;
+	font-family: arial;
+}
+body{
+	background-color: #008597;
+	
+}
+#text{
+	font-size:150%;
+	
+	font-family: arial;
+}
+#line{
+	color: grey;
+}
+#submit1{
+	background-color: #256ca6;
+	padding: 5px;
+	font-size: 140%;
+	color: white;
+	height: 40px;
+}
+button{
+	background-color:#3b5a9a;
+	color: white;
+	font-size: 140%;
+	padding: 5px;
+	height: 40px;
+}
+header{
+	text-align:center;
+	font-size: 120%;
+	color: white;
+	padding: -2px;
+}
+#head-panel{
+	text-align:center;
+	font-size: 150%;
+	color: white;
+	padding: -2px;
+	font-family: arial;
+}
+	
+footer{
+	text-align:center;
+	color: white;
+}
+a{
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
